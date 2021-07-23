@@ -1,0 +1,27 @@
+section {
+    padding: 70px;
+    border: 5px solid #f70bff;
+    
+      
+    
+  }
+section class="col-sm-4">
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {padding: 15px;
+  }
+#t02 { 
+    width: 100%;    
+    background-color: #da2323;
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th, td {padding: 15px;
+      }
+
+    #t01 {
+        width: 100%;    
+        background-color: #00ff00;
